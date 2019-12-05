@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/love_background1">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/account_approval"
+        android:gravity="center"
+        android:textColor="@color/colorBlue"
+        android:textStyle="bold"
+        android:textSize="25sp"/>
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="20sp"
+    android:layout_margin="10dp"
+    android:layout_gravity="center"
+    android:textColor="@color/colorBlue6"
+    android:textStyle="bold"
+    android:text="@string/press_on_exist_users_ngood_luck"
+    />
+    <Button
+        android:id="@+id/btn_continue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:layout_marginEnd="10dp"
+        android:layout_marginTop="50dp"
+        android:text="@string/contin"
+        android:textAllCaps="false"
+        android:background="@drawable/shape_registration"/>
+</LinearLayout>

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+    <string name="app_name">findAdate</string>
+
+    <string name="existing_users">משתמשים קיימים</string>
+
+    <string name="register_with_facebook">הרשמה עם פייסבוק</string>
+
+    <string name="sign_up_with_email">הרשמה עם דואר אלקטרוני</string>
+
+    <string name="create_a_new_account">יצירת חשבון חדש</string>
+
+    <string name="email">דואר אלקטרוני</string>
+
+    <string name="email1">אימייל:</string>
+
+    <string name="user_name">שם משתמש</string>
+
+    <string name="password">סיסמא</string>
+
+    <string name="next">הבא</string>
+
+    <string name="man_interested_in_women">גבר שמעוניין בנשים</string>
+
+    <string name="i_am_a">את/ה?</string>
+
+    <string name="woman_interested_in_men">אישה שמעוניינת בגברים</string>
+
+    <string name="man_interested_in_men">גבר שמעוניין בגברים</string>
+
+    <string name="woman_interested_in_women">אישה שמעוניינת בנשים</string>
+
+    <string name="back">חזור</string>
+
+    <string name="properemail">אתה חייב להזין כתובת דואר אלקטרוני חוקית</string>
+
+    <string name="nameerror">אנא הכנס את שם המשתמש</string>
+
+    <string name="passworderror">יש להכניס סיסמא לפחות באורך 8 תוים</string>
+
+    <string name="enter_email">דוא\"ל </string>
+
+    <string name="sign_in">התחבר/י</string>
+
+    <string name="ok">אישור</string>
+
+    <string name="enter_password">סיסמא</string>
+    //Cities
+    <string name="city1">אופקים</string>
+
+    <string name="city2">אור יהודה</string>
+
+    <string name="city3">אילת</string>
+
+    <string name="city4">אלעד</string>
+
+    <string name="city5">אריאל</string>
+
+    <string name="city6">אשדוד</string>
+
+    <string name="city7">אשקלון</string>
+
+    <string name="city8">באר שבע</string>
+
+    <string name="city9">בית שאן</string>
+
+    <string name="city10">בית שמש</string>
+
+    <string name="city11">ביתר עילית</string>
+
+    <string name="city12">בני ברק</string>
+
+    <string name="city13">בת ים</string>
+
+    <string name="city14">גבעתיים</string>
+
+    <string name="city15">דימונה</string>
+
+    <string name="city16">הוד השרון</string>
+
+    <string name="city17">הרצליה</string>
+
+    <string name="city18">חדרה</string>
+
+    <string name="city19">חולון</string>
+
+    <string name="city20">חיפה</string>
+
+    <string name="city21">טבריה</string>
+
+    <string name="city22">טירה</string>
+
+    <string name="city23">טירת הכרמל</string>
+
+    <string name="city24">יבנה</string>
+
+    <string name="city25">יהוד-מונוסון</string>
+
+    <string name="city26">יקנעם</string>
+
+    <string name="city27">ירושלים</string>
+
+    <string name="city28">כפר סבא</string>
+
+    <string name="city29">כרמיאל</string>
+
+    <string name="city30">לוד</string>
+
+    <string name="city31">מגדל העמק</string>
+
+    <string name="city32">מודיעין</string>
+
+    <string name="city33">מעלה אדומים</string>
+
+    <string name="city34">מעלות תרשיחא</string>
+
+    <string name="city35">נהריה</string>
+
+    <string name="city36">נוף הגליל</string>
+
+    <string name="city37">נס ציונה</string>
+
+    <string name="city38">נצרת</string>
+
+    <string name="city39">נשר</string>
+
+    <string name="city40">נתיבות</string>
+
+    <string name="city41">נתניה</string>
+
+    <string name="city42">עכו</string>
+
+    <string name="city43">עפולה</string>
+
+    <string name="city44">ערד</string>
+
+    <string name="city45">פתח תקוה</string>
+
+    <string name="city46">צפת</string>
+
+    <string name="city47">קרית אונו</string>
+
+    <string name="city48">קרית אתא</string>
+
+    <string name="city49">קרית ביאליק</string>
+
+    <string name="city50">קרית גת</string>
+
+    <string name="city51">קרית ים</string>
+
+    <string name="city52">קרית מוצקין</string>
+
+    <string name="city53">קרית מלאכי</string>
+
+    <string name="city54">קרית שמונה</string>
+
+    <string name="city55">ראש העין</string>
+
+    <string name="city56">ראשון לציון</string>
+
+    <string name="city57">רהט</string>
+
+    <string name="city58">רחובות</string>
+
+    <string name="city59">רמלה</string>
+
+    <string name="city60">רמת גן</string>
+
+    <string name="city61">רמת השרון</string>
+
+    <string name="city62">רעננה</string>
+
+    <string name="city63">שדרות</string>
+
+    <string name="city64">תל אביב</string>
+
+    <string name="user_details">פרטי משתמש אחרונים</string>
+
+    <string name="first_name">שם פרטי</string>
+
+    <string name="last_name">שם משפחה</string>
+
+    <string name="city">עיר</string>
+
+    <string name="birthdate">תאריך לידה</string>
+
+    <string name="yourselferror">חובה עליך לתת מידע אודותיך</string>
+
+    <string name="birthdateerror">חובה עליך להכניס את תאריך הלידה</string>
+
+    <string name="firstnameerror">חובה עליך להכניס את שמך הפרטי</string>
+
+    <string name="lastnameerror">חובה עליך להכניס את שם משפחתך</string>
+
+    <string name="cityerror">חובה להכניס את שם העיר</string>
+
+    <string name="messages">הודעות</string>
+
+    <string name="profile">פרופיל</string>
+
+    <string name="home">בית</string>
+
+    <string name="keep_me_connected">השאר אותי מחובר</string>
+
+    <string name="choose_source">בחר מקור</string>
+
+    <string name="choose_source_message">צלם תמונה או בחר תמונה מהגלריה</string>
+
+    <string name="gallery">גלריה</string>
+
+    <string name="camera">מצלמה</string>
+
+    <string name="find_your_one">מצא/י את האחד/האחת</string>
+
+    <string name="update_your_file">ערוך את הפרופיל</string>
+
+    <string name="about_yourself">כמה מילים על עצמך… </string>
+
+    <string name="user_age">גיל:</string>
+
+    <string name="usercity">עיר:</string>
+
+    <string name="firstname">שם פרטי:</string>
+
+    <string name="lastname">שם משפחה:</string>
+
+    <string name="aboutuser">על עצמי:</string>
+
+    <string name="type_a_message">כתוב הודעה…</string>
+
+    <string name="settings">הגדרות</string>
+
+    <string name="wifi_problem">בעיית רשת</string>
+
+    <string name="wifi_is_not_connected_please_connect">אין חיבור לרשת, אנא התחבר!</string>
+
+    <string name="connect">התחבר</string>
+
+    <string name="message_from">הודעות מ…</string>
+
+    <string name="logout">התנתק</string>
+
+    <string name="alert">התראות</string>
+
+    <string name="logoutfrom">התנתק מהאפליקציה</string>
+
+    <string name="cancel_reminder">בטל התראות</string>
+
+    <string name="about">אודות</string>
+
+    <string name="aboutapp">אודות האפליקציה</string>
+
+    <string name="findadate_is_israel_s_app_for_dating_where_singles_of_all_ages_and_at_every_stage_of_life_can_meet_and_find_their_true_match_the_use_of_the_findadate_app_incorporates_an_interactive_and_convenient_user_interface_that_allows_easy_and_fun_access_to_its_users_tens_of_thousands_of_singles_are_part_of_our_app_s_community_hundreds_of_couples_have_already_met_and_fallen_in_love_and_many_have_even_gotten_married_all_through_the_help_of_our_app"> האפליקצייה findAdate היא אפליקציית היכרויות בישראל ומפגש של רווקים ורווקות, פנויים ופנויות, מכל הגילאים ובכל שלבי החיים, לצורכי הכרויות ומציאת בני זוג.\n\n השימוש באפליקציה findAdate משלב בתוכו ממשק משתמש אינטראקטיבי ונוח אשר מאפשר גישה נוחה ומהנה למשתמשיה.\n\n עשרות אלפי רווקים ורווקות כבר משתמשים באפליקציה, מאות זוגות כבר הכירו, התאהבו ורבים גם התחתנו, באמצעות אפליקציית ההכרויות שלנו.\n</string>
+
+    <string name="finish">סיים</string>
+
+    <string name="come_and_see">בואו לראות \nאולי היום תמצאו את האחד/אחת</string>
+
+    <string name="reminder">תזכורת</string>
+
+    <string name="make_alert_one_day">תזכורת פעם ביום</string>
+
+    <string name="email_already_exist">הדוא"ל הזה כבר קיים</string>
+    <string name="cant_send_empty_msg">לא ניתן לשלוח הודעה ריקה מתוכן</string>
+    <string name="press_on_exist_users_ngood_luck">ההרשמה בוצעה בהצלחה!\nבכדי להתחבר עם החשבון, עליך ללחוץ על \'משתמשים קיימים\'!</string>
+    <string name="account_approval">אישור חשבון</string>
+    <string name="contin">הבא</string>
+
+
+</resources>

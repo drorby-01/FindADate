@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="MissingDefaultResource">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/i_am_a"
+            android:gravity="center"
+            android:background="@color/colorRed2"
+            android:textColor="@color/colorBlue"
+            android:textSize="30sp"/>
+
+        <Button
+            android:id="@+id/btn_manNwomen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@color/colorWhite"
+            android:gravity="center"
+            android:text="@string/man_interested_in_women"
+            android:textAllCaps="false"/>
+
+        <Button
+            android:id="@+id/btn_womanNman"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@color/colorWhite"
+            android:gravity="center"
+            android:text="@string/woman_interested_in_men"
+            android:textAllCaps="false"/>
+
+        <Button
+            android:id="@+id/btn_manNman"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@color/colorWhite"
+            android:gravity="center"
+            android:text="@string/man_interested_in_men"
+            android:textAllCaps="false"/>
+        <Button
+            android:id="@+id/btn_womanNwoman"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@color/colorWhite"
+            android:gravity="center"
+            android:text="@string/woman_interested_in_women"
+            android:textAllCaps="false"/>
+
+    </LinearLayout>
+</LinearLayout>

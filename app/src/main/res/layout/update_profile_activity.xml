@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/update_your_file"
+    android:gravity="center"
+    android:background="@color/colorRed2"
+    android:textColor="@color/colorBlue"
+    android:textSize="30sp"/>
+
+ <EditText
+     android:id="@+id/et_firstName"
+     android:layout_marginTop="30dp"
+     android:layout_marginStart="10dp"
+     android:layout_marginEnd="10dp"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:hint="@string/first_name"
+     android:gravity="center"
+     android:textColorHint="@color/colorBlue5"
+     android:textColor="@color/colorBlue4"
+     android:background="@drawable/shapeedittext"/>
+ <EditText
+     android:id="@+id/et_lastName"
+     android:layout_marginTop="20dp"
+     android:layout_marginStart="10dp"
+     android:layout_marginEnd="10dp"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:hint="@string/last_name"
+     android:gravity="center"
+     android:textColorHint="@color/colorBlue5"
+     android:textColor="@color/colorBlue4"
+     android:background="@drawable/shapeedittext"/>
+
+ <AutoCompleteTextView
+     android:id="@+id/city"
+     android:layout_marginTop="20dp"
+     android:layout_marginStart="10dp"
+     android:layout_marginEnd="10dp"
+     android:hint="@string/city"
+     android:gravity="center"
+     android:layout_width="match_parent"
+     android:textColorHint="@color/colorBlue5"
+     android:background="@drawable/shapeedittext"
+     android:textColor="@color/colorBlue4"
+     android:layout_height="wrap_content"/>
+
+ <EditText
+     android:id="@+id/et_birthdate"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:layout_marginStart="10dp"
+     android:layout_marginTop="20dp"
+     android:layout_marginEnd="10dp"
+     android:clickable = "true"
+     android:gravity="center"
+     android:hint="@string/birthdate"
+     android:onClick="birthdate"
+     android:focusable="false"
+     android:textColorHint="@color/colorBlue5"
+     android:background="@drawable/shapeedittext"
+     android:textColor="@color/colorBlue4"/>
+
+ <EditText
+     android:id="@+id/et_aboutYourSelf"
+     android:layout_marginTop="40dp"
+     android:layout_marginStart="10dp"
+     android:layout_marginEnd="10dp"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:hint="@string/about_yourself"
+     android:lines="4"
+     android:maxLines="8"
+     android:gravity="start"
+     android:textColorHint="@color/colorBlue5"
+     android:textColor="@color/colorBlue4"
+     android:background="@drawable/shaped_text_box"/>
+
+
+ <Button
+     android:id="@+id/btn_save"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:background="@android:color/holo_red_light"
+     android:layout_marginEnd="10dp"
+     android:layout_marginStart="10dp"
+     android:layout_marginTop="30dp"
+     android:textColor="@color/colorWhite"
+     android:text="@string/next"
+     android:textAllCaps="false"/>
+
+
+
+</LinearLayout>
